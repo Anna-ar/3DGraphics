@@ -1,10 +1,9 @@
 # 3DGraphics
 Creation of a 3D model/scene in Blender with certain requirements.
 
-I made an asian kitchen scene by creating the following models:
- Sushi,
- soy sauce
- a bowl, 
- and chopsticks.
+Final result:
+![final render](https://user-images.githubusercontent.com/57010343/95683095-cc725180-0bf1-11eb-8c82-133dad9917fa.png)
 
 
+
+**More details on Wiki!**
